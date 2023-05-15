@@ -9,13 +9,13 @@ This internship is designed to give participants a foundation in programming and
 ## Getting Started
 
 1. Clone this repository to your local machine using the following command:
-
-`git clone https://github.com/iman-n/IntroProgDev-2Weeks-Internship.git `
-
+```
+git clone https://github.com/iman-n/IntroProgDev-2Weeks-Internship.git 
+```
 2. Navigate to the cloned repository:
-
-` cd IntroProgDev-2Weeks-Internship`
-
+```
+cd IntroProgDev-2Weeks-Internship
+```
 3. Explore the different directories and familiarize yourself with the Python scripts, exercises, and projects.
 
 ## Prerequisites
@@ -25,9 +25,9 @@ This internship is designed to give participants a foundation in programming and
 ## Running the Code
 
 To run the Python scripts, exercises, and projects, follow the instructions provided within each file or project folder. Typically, you can execute a Python script from the command line using the following command:
-
-`python file_name.py`
-
+```
+python file_name.py
+```
 
 ## License
 
